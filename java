@@ -1,5 +1,9 @@
 javascript: (function() {
     document.getElementById("colophon").remove();
+    
+    document.getElementById("sidr-id-menu-item-1033").remove();
+
+    document.getElementById("sidr-id-menu-item-1034").remove();
 
     const removeElements = (elms) => elms.forEach(el => el.remove());
     removeElements( document.querySelectorAll(".idmuvi-socialicon-share"));
