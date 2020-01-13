@@ -1,11 +1,11 @@
 {
 "maintenance" : false,
 "isUpdate" : true,
-"logo" : "https://github.com/lionx123/unyu/raw/master/logobanner.png",
-"urlPromote" : "https://play.google.com/store/apps/details?id=com.tencent.ig",
-"titlePromote" : "HD Movies",
+"logo" : "https://raw.githubusercontent.com/rebornmvie/x6/master/logobanner.png",
+"urlPromote" : "https://play.google.com/store/apps/details?id=com.nontonganool21.starxxi.bioskopkeren",
+"titlePromote" : "HD Movies Reborn",
 "descPromote" : "Please update new app, this old app will not support soon. Watch High Quality HD Movies",
-"thumbPromote" : "https://4.bp.blogspot.com/-SNkm8EDw0yM/WVfYk291GOI/AAAAAAAAHXQ/bE-FTh_bafYDgyfWM2YHEHy70E8e1GCGwCLcBGAs/s150/Triangle.png",
+"thumbPromote" : "https://raw.githubusercontent.com/rebornmvie/x6/master/icon_hd_MOVIE.png",
 
 "adsInterval" : 5,
 "useFAN" : true
